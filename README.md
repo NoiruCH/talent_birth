@@ -4,7 +4,7 @@ Wikipediaからタレントの誕生日を取得して
 自分の誕生日と比較するライブラリです。
 
 ## How to
-```bash
+```powershell
 talent_birth
 Please type here: "talent_name"
 Your birth: "xxxx-yy-zz"
