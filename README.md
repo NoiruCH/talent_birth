@@ -1,17 +1,20 @@
-# talent_birth
-
-# はじめまして
+## talent_birth
 はじめてのcommitになります。
 Wikipediaからタレントの誕生日を取得して
 自分の誕生日と比較するライブラリです。
 
-# How to
-'''bash
+## How to
+```bash
 talent_birth
 Please type here: "talent_name"
 Your birth: "xxxx-yy-zz"
-'''
+```
 
-# Result
+## Requirements
+- requests
+- click
+- bs4
+
+## Result
 タレントとの歳の差とコメントが返ってきます。
 
