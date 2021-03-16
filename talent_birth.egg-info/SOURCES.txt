@@ -1,0 +1,8 @@
+README.md
+setup.py
+talent_birth.egg-info/PKG-INFO
+talent_birth.egg-info/SOURCES.txt
+talent_birth.egg-info/dependency_links.txt
+talent_birth.egg-info/entry_points.txt
+talent_birth.egg-info/requires.txt
+talent_birth.egg-info/top_level.txt

@@ -1,20 +1,17 @@
 # talent_birth
 
-<h1>To need</h1>
+# はじめまして
+はじめてのcommitになります。
+Wikipediaからタレントの誕生日を取得して
+自分の誕生日と比較するライブラリです。
 
-<h2>files</h2>
-<hr>
-<ol>
-<li>main.py</li>
-<li>talent_birth</li>
-</ol>
+# How to
+'''bash
+talent_birth
+Please type here: "talent_name"
+Your birth: "xxxx-yy-zz"
+'''
 
-
-<h2>libraries</h2>
-<hr>
-<li>request</li>
-<li>PIL</li>
-<li>datetime</li>
-<li>Clicks</li>
-
+# Result
+タレントとの歳の差とコメントが返ってきます。
 

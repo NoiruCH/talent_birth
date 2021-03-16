@@ -1,0 +1,3 @@
+[console_scripts]
+talent_birth = talent_birth.core:cli
+
