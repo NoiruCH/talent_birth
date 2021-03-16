@@ -5,9 +5,9 @@ Wikipediaからタレントの誕生日を取得して
 
 ## How to
 ```powershell
-talent_birth
-Please type here: "talent_name"
-Your birth: "xxxx-yy-zz"
+$ talent_birth
+$ Please type here: "talent_name"
+$ Your birth: "xxxx-yy-zz"
 ```
 
 ## Requirements
